@@ -1,2 +1,4 @@
-# desafio_python_DIO_2
- sist_bancario_V2
+# Desafio de Codigo Python 2
+# Sistema Bancario V2
+
+## Otimizando o sistema bancario 💲💲
